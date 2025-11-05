@@ -1,0 +1,169 @@
+{
+  "entities": [
+    {
+      "id": "oveja_1",
+      "type": "Oveja",
+      "attributes": {
+        "latitud": {"value": 43.1486, "type": "Float"},
+        "longitud": {"value": -4.6361, "type": "Float"},
+        "peso": {"value": 70.5, "type": "Float"},
+        "fecha_nacimiento": {"value": "2021-03-15", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "oveja_2",
+      "type": "Oveja",
+      "attributes": {
+        "latitud": {"value": 43.1487, "type": "Float"},
+        "longitud": {"value": -4.6360, "type": "Float"},
+        "peso": {"value": 68.3, "type": "Float"},
+        "fecha_nacimiento": {"value": "2020-12-22", "type": "Date"},
+        "salud": {"value": "Revisión", "type": "Text"}
+      }
+    },
+    {
+      "id": "vaca_1",
+      "type": "Vaca",
+      "attributes": {
+        "latitud": {"value": 43.1485, "type": "Float"},
+        "longitud": {"value": -4.6362, "type": "Float"},
+        "peso": {"value": 450.7, "type": "Float"},
+        "fecha_nacimiento": {"value": "2019-07-11", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "vaca_2",
+      "type": "Vaca",
+      "attributes": {
+        "latitud": {"value": 43.1484, "type": "Float"},
+        "longitud": {"value": -4.6359, "type": "Float"},
+        "peso": {"value": 470.2, "type": "Float"},
+        "fecha_nacimiento": {"value": "2020-02-18", "type": "Date"},
+        "salud": {"value": "Excelente", "type": "Text"}
+      }
+    },
+    {
+      "id": "cabra_1",
+      "type": "Cabra",
+      "attributes": {
+        "latitud": {"value": 43.1486, "type": "Float"},
+        "longitud": {"value": -4.6358, "type": "Float"},
+        "peso": {"value": 55.8, "type": "Float"},
+        "fecha_nacimiento": {"value": "2022-04-09", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "cabra_2",
+      "type": "Cabra",
+      "attributes": {
+        "latitud": {"value": 43.1483, "type": "Float"},
+        "longitud": {"value": -4.6363, "type": "Float"},
+        "peso": {"value": 52.4, "type": "Float"},
+        "fecha_nacimiento": {"value": "2021-06-23", "type": "Date"},
+        "salud": {"value": "Revisión", "type": "Text"}
+      }
+    },
+    {
+      "id": "cerdo_1",
+      "type": "Cerdo",
+      "attributes": {
+        "latitud": {"value": 43.1485, "type": "Float"},
+        "longitud": {"value": -4.6365, "type": "Float"},
+        "peso": {"value": 120.9, "type": "Float"},
+        "fecha_nacimiento": {"value": "2019-10-01", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "cerdo_2",
+      "type": "Cerdo",
+      "attributes": {
+        "latitud": {"value": 43.1487, "type": "Float"},
+        "longitud": {"value": -4.6357, "type": "Float"},
+        "peso": {"value": 118.5, "type": "Float"},
+        "fecha_nacimiento": {"value": "2020-08-13", "type": "Date"},
+        "salud": {"value": "Excelente", "type": "Text"}
+      }
+    },
+    {
+      "id": "perro_1",
+      "type": "Perro",
+      "attributes": {
+        "latitud": {"value": 43.1484, "type": "Float"},
+        "longitud": {"value": -4.6356, "type": "Float"},
+        "peso": {"value": 35.4, "type": "Float"},
+        "fecha_nacimiento": {"value": "2021-11-20", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "perro_2",
+      "type": "Perro",
+      "attributes": {
+        "latitud": {"value": 43.1488, "type": "Float"},
+        "longitud": {"value": -4.6355, "type": "Float"},
+        "peso": {"value": 40.1, "type": "Float"},
+        "fecha_nacimiento": {"value": "2020-03-14", "type": "Date"},
+        "salud": {"value": "Revision", "type": "Text"}
+      }
+    },
+    {
+      "id": "oveja_3",
+      "type": "Oveja",
+      "attributes": {
+        "latitud": {"value": 43.1482, "type": "Float"},
+        "longitud": {"value": -4.6364, "type": "Float"},
+        "peso": {"value": 69.2, "type": "Float"},
+        "fecha_nacimiento": {"value": "2021-05-30", "type": "Date"},
+        "salud": {"value": "Excelente", "type": "Text"}
+      }
+    },
+    {
+      "id": "vaca_3",
+      "type": "Vaca",
+      "attributes": {
+        "latitud": {"value": 43.1481, "type": "Float"},
+        "longitud": {"value": -4.6366, "type": "Float"},
+        "peso": {"value": 455.5, "type": "Float"},
+        "fecha_nacimiento": {"value": "2019-04-19", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "cabra_3",
+      "type": "Cabra",
+      "attributes": {
+        "latitud": {"value": 43.1489, "type": "Float"},
+        "longitud": {"value": -4.6354, "type": "Float"},
+        "peso": {"value": 57.0, "type": "Float"},
+        "fecha_nacimiento": {"value": "2022-07-05", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "cerdo_3",
+      "type": "Cerdo",
+      "attributes": {
+        "latitud": {"value": 43.1480, "type": "Float"},
+        "longitud": {"value": -4.6367, "type": "Float"},
+        "peso": {"value": 122.3, "type": "Float"},
+        "fecha_nacimiento": {"value": "2021-09-21", "type": "Date"},
+        "salud": {"value": "Buena", "type": "Text"}
+      }
+    },
+    {
+      "id": "perro_3",
+      "type": "Perro",
+      "attributes": {
+        "latitud": {"value": 43.1483, "type": "Float"},
+        "longitud": {"value": -4.6358, "type": "Float"},
+        "peso": {"value": 38.2, "type": "Float"},
+        "fecha_nacimiento": {"value": "2020-01-11", "type": "Date"},
+        "salud": {"value": "Excelente", "type": "Text"}
+      }
+    }
+  ]
+}
